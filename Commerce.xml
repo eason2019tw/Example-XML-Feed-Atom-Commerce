@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel> 
+    <title>My Deal Shop Products</title>
+    <description>Product Feed for Facebook</description> 
+    <link>https://www.mydealsshop.foo</link>
+    <atom:link href="https://www.mydealsshop.foo/pages/test-feed" rel="self" type="application/rss+xml" />
+    
+     
+        <item>
+            <g:item_group_id>SKU-123123</g:item_group_id>
+            <g:gtin>12345678912345</g:gtin>
+            <g:google_product_category>Toys &amp; Games > Toys > Executive Toys > Magnet Toys</g:google_product_category>            
+            <g:id>SKU-123123-RED</g:id>
+            <g:title>WidgetThing</g:title>            
+            <g:description>This product is the product you need to do the thing</g:description>
+            <g:link>https://www.mydealsshop.foo/products/widgetthing</g:link>
+            <g:image_link>https://cdn.mycdn.foo/files/123123123.jpg</g:image_link>  
+            
+            <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>            
+            <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+                        
+            <color>Red</color>           
+                    
+            <additional_variant_attribute>
+                <label>Style</label>
+                <value>Cool</value>
+            </additional_variant_attribute>
+                    
+            <g:brand>AcmeCo</g:brand>
+            <g:condition>New</g:condition>  
+          
+            <g:availability>in stock</g:availability>
+            
+            <g:price>19.99 USD</g:price>
+            <g:sale_price>9.99 USD</g:sale_price>
+            <g:offer_price>7.99 USD</g:offer_price>
+            <offer_price_effective_date>2018-07-25T01:35/2018-09-16T17:07</offer_price_effective_date>           
+        </item>  
+
+        <item>
+            <g:item_group_id>SKU-123123</g:item_group_id>
+            <g:gtin>12345678912346</g:gtin>
+            <g:google_product_category>Toys &amp; Games > Toys > Executive Toys > Magnet Toys</g:google_product_category>            
+            <g:id>SKU-123123-GREEN</g:id>
+            <g:title>WidgetThing</g:title>            
+            <g:description>This product is the product you need to do the thing</g:description>
+            <g:link>https://www.mydealsshop.foo/products/widgetthing</g:link>
+            <g:image_link>https://cdn.mycdn.foo/files/123123123.jpg</g:image_link>  
+            
+            <additional_image_link>https://cdn.mycdn.foo/files/123123123_image2.jpg</additional_image_link>            
+            <additional_image_link>https://cdn.mycdn.foo/files/123123123_image3.jpg</additional_image_link>
+                        
+            <color>Green</color>           
+                    
+            <additional_variant_attribute>
+                <label>Style</label>
+                <value>Cool</value>
+            </additional_variant_attribute>
+                    
+            <g:brand>AcmeCo</g:brand>
+            <g:condition>New</g:condition>  
+          
+            <g:availability>in stock</g:availability>
+            
+            <g:price>19.99 USD</g:price>
+            <g:sale_price>9.99 USD</g:sale_price>
+            <g:offer_price>7.99 USD</g:offer_price>
+            <offer_price_effective_date>2018-07-25T01:35/2018-09-16T17:07</offer_price_effective_date>           
+        </item>   
+         
+
+    </channel>
+</rss>
